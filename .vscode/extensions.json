@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "ayushsinghal.code-mate",
+        "zokugun.automatic-editor-sorter",
+        "codespaces-contrib.codeswing",
+        "hediet.vscode-drawio",
+        "usernamehw.errorlens",
+        "tttmmmyyyy.fixlangsyntax",
+        "jeanribeiro.full-java-develop",
+        "ms-vscode.vscode-typescript-next",
+        "timheuer.jsondbg",
+        "ms-vscode.remote-server",
+        "ms-vscode.remote-explorer",
+        "nguyenvinhtieng.translate-i18n",
+        "nguyenvinhtieng.vinhtieng-snippet",
+        "comment.vietnamese-commenter",
+        "streetsidesoftware.code-spell-checker-vietnamese"
+    ]
+}
